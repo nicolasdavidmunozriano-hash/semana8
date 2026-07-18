@@ -1,0 +1,5 @@
+1. Utilizar contraseñas fuertes y únicas.
+2. No compartir credenciales con otras personas.
+3. Usar conexiones seguras mediante HTTPS.
+4. Registrar y monitorear los accesos al sistema.
+5. Limitar el acceso a información sensible solo a usuarios autorizados.
